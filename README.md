@@ -22,7 +22,8 @@ The expected outcome from this model is :
 First, we collect the Wisconsin Breast Cancer (Diagnostic) dataset. We look into the overall information of the dataset like columns, data types, missing values.
 
 * #### Exploratory Data Analysis and Preprocessing:
-We clean and preprocess the data for the model like removing unwanted columns,encode categorical variables.Next we use visualizations like a heatmap to see how features relate to each other.
+We clean and preprocess the data for the model like removing unwanted columns,encode categorical variables.
+Next we use visualizations like a heatmap to see how features relate to each other.
 Then we will split the data into features (the characteristics used for prediction) and the target (the diagnosis: malignant or benign).We will also scale the feature data so that all values are on a similar scale. 
 
 * #### Model Training:
