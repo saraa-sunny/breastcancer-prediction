@@ -1,11 +1,14 @@
 # Breast Cancer Diagnosis Prediction 🔍👩🏻
-
+ 
 ## 📌 The problem statement
 Breast cancer is the most common cancer diagnosed in women, accounting for more than 1 in 10 new cancer diagnoses annually, and is the second most common cause of cancer death among women worldwide.
 
 A tumor does not mean cancer - tumors can be benign (not cancerous), pre-malignant (pre-cancerous), or malignant (cancerous).
 
 A significant challenge in diagnosing breast cancer is the potential for human error and the time-consuming nature of manual analysis of biopsy data. An accurate, automated system is needed to assist clinicians by providing a quick and objective second opinion, ultimately improving diagnostic accuracy and patient outcomes
+
+<img src="https://github.com/user-attachments/assets/1094500d-2171-4ab7-914e-d99f47656452" alt="Doctor by Uran _ Dribbble _ Dribbble" height="500" width="800"/>
+
 
 ## ❓ The question:
 ### Can we build a binary classification model using biopsy features, such as cell nucleus characteristics,to classify a breast mass as either malignant or benign in order to improve diagnostic accuracy and provide a quick, objective second opinion for clinicians?
